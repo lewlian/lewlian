@@ -24,19 +24,20 @@ Credits to <a href="https://github.com/2manslkh">@2manslkh </a> for the sick tem
 
 Welcome to my humble profile. I am a blockchain developer who started out in the web3 space in mid 2021. I have a strong passion in the NFT vertical of blockchain and other than being an avid JPEG collector, I am also a degenerate leverage trader in my free time. #WAGMI
 
-# **Projects** 📑
+# 📑 **Projects** 
 
 # 🎁 Nifty Rewards - NFT Reward Discovery Platform (ETHAmsterdam 2022)
 
 <img align="center" src="img/nifty.png" width="500">
 
 <p align="left">
-The project was submitted as part of ETHAmsterdam 2022 organized by ETHGlobal. Our group identified a key problem with NFTs and it is the struggle for teams to provide utilities. A fully digital metaverse is not here yet and people will always still seek comfort in tangible brands. Today, we have millions of brands and services out there looking for consumers but there is no easy way for them to tap on the users and liquidity accumulated in the NFT ecosystem.
+The project was submitted as part of ETHAmsterdam 2022 organized by ETHGlobal. Our group identified a key problem with NFTs and it is the struggle for teams to provide utilities. A fully digital metaverse is not here yet and people will always still seek comfort in tangible real world utilities. Today, we have millions of brands and services out there looking for consumers but there is no easy way for them to tap on the users and liquidity accumulated in the NFT ecosystem.
 
-Bigger brands like Nike and Adidas have the purchasing power to buy over successful NFT collections but what about the 99% of merchants out there? Our platform serves as a Discovery Reward platform for users and a one-stop platform to kickstart merchant-nft reward campaigns. Onboarding web2 users and merchants is seamless with the use of technologies like web3Auth and walletConnect.
+Bigger brands like Nike and Adidas have the purchasing power to acquire successful NFT collections but what about the 99% of merchants out there? 
+
+Over the 36-hours hackathon, my team prototyped a which platform serves as a Discovery Reward platform for users and a one-stop platform for merchants to kickstart nft reward campaigns. Onboarding web2 users and merchants is seamless with the use of technologies like web3Auth and walletConnect.
 
 Find out more about the project at our repository:
-
 <p align="left">
 <a href="https://www.niftyr3wrds.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D" height="16"></a>
 <a href="https://rinkeby.etherscan.io/address/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508#code" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
