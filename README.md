@@ -1,7 +1,9 @@
 <!-- markdownlint-disable MD033 -->
 
 <h1 align="center">Sean's GitHub</h1>
-<p align ="center"> Credits to @2manslkh for the template<p>
+<p align ="center"> 
+Credits to <a href="https://github.com/2manslkh">@2manslkh </a> for the sick template
+<p>
 
 <p align="center">
 <img src="img/sean.png" width=200/>
