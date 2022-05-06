@@ -62,11 +62,12 @@ Users are able to create crowdfund campaigns and also contribute to existing cam
 
 # 🥷 ShogunSamurais - Ethereum NFT Project
 
+<p align = "left">
 <img align="center" src="img/Kitsune.png" width="100">
 <img align="center" src="img/Tako.png" width="100">
 <img align="center" src="img/Sumorai.png" width="100">
 <img align="center" src="img/Komainu.png" width="100">
-<p align = "left">
+
 
 Co-founder and blockchain developer for ShogunSamurais. Created ERC721 Smart Contract for the sale of 8888 ShogunSamurais. Project achieved an 84% sell out generating ~2M USD in revenue (based on Ethereum price).
 
@@ -77,7 +78,7 @@ Images and metadata were randomly generated using Node.js scripts and hosted on 
 <a href="https://etherscan.io/address/0x8399d6351fd0ddb33f77bfc627e3264d74500d22#code" target="blank"><img align="center" src="https://img.shields.io/badge/0x8399d6351fd0ddb33f77bfc627e3264d74500d22-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D" height="16"></a>
 
 # 🔓 ShogunSamurais - Staking & Rewards
-
+<p align = "left">
 <img align="center" src="img/medallion.png" width="100">
 <img align="center" src="img/token_rendered.png" width="100">
 
