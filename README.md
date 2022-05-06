@@ -63,7 +63,7 @@ Users are able to create crowdfund campaigns and also contribute to existing cam
 # 🥷 ShogunSamurais - Ethereum NFT Project
 
 <p align = "left">
-<img align="center" src="img/Kitsune.png" width="100">
+<img align="center" src="img/kitsune.png" width="100">
 <img align="center" src="img/Tako.png" width="100">
 <img align="center" src="img/Sumorai.png" width="100">
 <img align="center" src="img/Komainu.png" width="100">
