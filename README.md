@@ -25,6 +25,23 @@ Credits to <a href="https://github.com/2manslkh">@2manslkh </a> for the sick tem
 Welcome to my humble profile. I am a blockchain developer who started out in the web3 space in mid 2021. I have a strong passion in the NFT vertical of blockchain and other than being an avid JPEG collector, I am also a degenerate leverage trader in my free time. #WAGMI
 
 # 📑 **Projects** 
+# 🍃 SafeZen - Insurance Defi Protocol (HackMoney 2022)
+
+<img align="center" src="img/nifty.png" width="500">
+
+<p align="left">
+Insurance continues to be an essential part of everyone's lives but yet still remains one of the most complex issues to understand for people of all ages. Our group aims to tackle this problem by first of all being a one-stop platform for insurance purchase, aggregating all providers and merchants globally. SafeZen allows you to make a one-time purchase for policies across different categories and also the ability to ONLY PAY when you NEED it. Activate your policies just before your flight or right before your long road trip and deactivate them when you have safely arrived. Say goodbye to traditional paper works and physical signatures, each policy is minted on the Polygon blockchain as an on-chain ERC721-compliant NFT making them tamper-proof and never lost. Submit your claims in a few clicks and upload your verifying documents which will be stored on IPFS, instead of having your claims validated by a single agent/company, SafeZen DAO will have decentralized voting on each claim submitted. The amount that you pay for your policy purchases will also be automatically staked and generate yield while you're protected.
+
+We have decided to make use of Polygon as our blockchain of choice because of its scalability as a Layer-2 solution to Ethereum, we understand that insurance is a necessity and it is only a matter of time that we see large volumes of transactions taking place through our smart contracts. Walletconnect and Coinbase wallet gave us the flexibility of interfacing through different mediums with our potential users, allowing us to gain adoption with less friction in the future. IPFS allows us to store necessary documents online and be transparent with the voting procedure on insurance claims. More importantly, one of the key features of our product will not have been possible without Superfluid's technology which has allowed us to revolutionise how insurance payments can be made. Being able to pay by the second as you activate the policy made so much sense to us and we think that this not only saves cost for the users but also keeps them aware and sensitive of their coverage. The toughest part about the hackathon was definitely the fact that it was a remote hack, during the last week of the hackathon our group was meeting almost every night to keep each other up to date of progresses. We are proud of what we have built over the short amount of time, not only have we innovated on subscription processes with Superfluid, we have successfully combined the idea of decentralisation with a traditional web2 insurance product to improve efficiency and save cost for our users
+
+Find out more about the project at our repository [WIP]:
+<p align="left">
+<a href="[SafeZen](https://safezen.vercel.app/)" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=&logoColor=3C3C3D" height="16"></a>
+<a href="https://mumbai.polygonscan.com/address/0xd150eF24c201EF6E16a282D2C02F00ee7B237A2a" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
+<a href="https://mumbai.polygonscan.com/address/0x1EEcd45b5828976a9D2803e668a593370AA0CC7A" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
+<a href="https://mumbai.polygonscan.com/address/0x74ce8878c8353DAF5e35767a714e5D4d0a19b38F" target="blank"><img align="center" src="https://img.shields.io/badge/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D"  height="16"></a>
+  
+</br>
 
 # 🎁 Nifty Rewards - NFT Reward Discovery Platform (ETHAmsterdam 2022)
 
