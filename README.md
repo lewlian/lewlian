@@ -22,7 +22,7 @@ Credits to <a href="https://github.com/2manslkh">@2manslkh </a> for the sick tem
 <a href="https://www.linkedin.com/in/sean-lew/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="sean_linkedin"></a>
 <a href="https://discordapp.com/users/286127218206310410/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="sean_discord"></a>
 
-Welcome to my humble profile. I am a blockchain developer who started out in the web3 space in mid 2021. I have a strong passion in the NFT vertical of blockchain and other than being an avid JPEG collector, I am also a degenerate leverage trader in my free time. #WAGMI
+Welcome to my humble profile. I am a blockchain developer who started out in the web3 space in mid 2021, Officially retired into a product manager in 2022 and still vibecoding here and there nowadays. I have a strong passion in the NFT vertical of blockchain and other than being an avid JPEG collector, I am also a degenerate leverage trader in my free time. #WAGMI
 
 # 📑 **Projects** 
 # 🍃 SafeZen - Insurance Defi Protocol (HackMoney 2022)
